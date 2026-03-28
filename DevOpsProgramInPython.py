@@ -12,3 +12,5 @@ print("CI pipeline triggered successfully")
 print("CI pipeline triggered successfully")
 
 print("git config successfully")
+
+print("git config successfully")
